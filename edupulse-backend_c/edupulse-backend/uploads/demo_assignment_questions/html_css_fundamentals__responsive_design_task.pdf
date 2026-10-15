@@ -1,0 +1,66 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 756 >>
+stream
+BT
+/F1 18 Tf
+50 782 Td
+(Responsive Design Task) Tj
+/F1 10 Tf
+0 -35 Td
+() Tj
+0 -15 Td
+(Design a responsive profile webpage for a student.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Requirements:) Tj
+0 -15 Td
+(1. Create a profile section containing name, image, short biography and contact information.) Tj
+0 -15 Td
+(2. Use CSS Grid or Flexbox.) Tj
+0 -15 Td
+(3. Add a navigation bar.) Tj
+0 -15 Td
+(4. Implement responsive behavior using media queries.) Tj
+0 -15 Td
+(5. Ensure the layout works correctly on mobile and desktop.) Tj
+0 -15 Td
+(6. Maintain readable typography and consistent spacing.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Submission:) Tj
+0 -15 Td
+(Submit HTML and CSS files with screenshots.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Total Marks: 100) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000136 00000 n 
+0000000262 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+1068
+%%EOF

@@ -1,0 +1,64 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 595 >>
+stream
+BT
+/F1 18 Tf
+50 782 Td
+(Complexity Analysis) Tj
+/F1 10 Tf
+0 -35 Td
+() Tj
+0 -15 Td
+(Analyze the time and space complexity of common algorithms.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Tasks:) Tj
+0 -15 Td
+(1. Analyze linear search.) Tj
+0 -15 Td
+(2. Analyze binary search.) Tj
+0 -15 Td
+(3. Analyze bubble sort.) Tj
+0 -15 Td
+(4. Analyze merge sort.) Tj
+0 -15 Td
+(5. Compare their best, average and worst cases.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Submission:) Tj
+0 -15 Td
+(Prepare a short report containing Big-O notation and explanations.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Total Marks: 100) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000136 00000 n 
+0000000262 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+907
+%%EOF

@@ -1,0 +1,66 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 547 >>
+stream
+BT
+/F1 18 Tf
+50 782 Td
+(Agile Sprint Plan) Tj
+/F1 10 Tf
+0 -35 Td
+() Tj
+0 -15 Td
+(Prepare an Agile sprint plan for developing a small LMS.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Include:) Tj
+0 -15 Td
+(1. Product backlog.) Tj
+0 -15 Td
+(2. User stories.) Tj
+0 -15 Td
+(3. Sprint goal.) Tj
+0 -15 Td
+(4. Task breakdown.) Tj
+0 -15 Td
+(5. Priority.) Tj
+0 -15 Td
+(6. Estimated effort.) Tj
+0 -15 Td
+(7. Definition of Done.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Prepare a plan for a two-week sprint.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Total Marks: 100) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000136 00000 n 
+0000000262 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+859
+%%EOF

@@ -1,0 +1,60 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 665 >>
+stream
+BT
+/F1 18 Tf
+50 782 Td
+(Query Optimization Report) Tj
+/F1 10 Tf
+0 -35 Td
+() Tj
+0 -15 Td
+(Analyze and optimize a slow SQL query.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Tasks:) Tj
+0 -15 Td
+(1. Identify possible performance bottlenecks.) Tj
+0 -15 Td
+(2. Explain how indexes can improve performance.) Tj
+0 -15 Td
+(3. Discuss the difference between clustered and non-clustered indexes.) Tj
+0 -15 Td
+(4. Explain how query execution plans help optimization.) Tj
+0 -15 Td
+(5. Rewrite the provided query in an optimized form.) Tj
+0 -15 Td
+(6. Compare the expected performance before and after optimization.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Total Marks: 100) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000136 00000 n 
+0000000262 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+977
+%%EOF
